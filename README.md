@@ -1,4 +1,4 @@
-#Hi, I'm Oliviya Babu
+# 👋 Hi, I'm Oliviya Babu
 
 ### 📊 Data Analyst | Artificial Intelligence & Data Science
 
